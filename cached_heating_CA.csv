@@ -1,0 +1,59 @@
+NAME,total_homes,electric_homes,state,county,share_electric
+"Alameda County, California",598246,177254,06,Alameda County,0.2962894862648476
+"Alpine County, California",435,49,06,Alpine County,0.11264367816091954
+"Amador County, California",16091,4248,06,Amador County,0.26399850848300294
+"Butte County, California",83312,29134,06,Butte County,0.34969752256577685
+"Calaveras County, California",18437,3118,06,Calaveras County,0.16911645061560993
+"Colusa County, California",7512,3152,06,Colusa County,0.41959531416400425
+"Contra Costa County, California",414417,117237,06,Contra Costa County,0.2828962132344957
+"Del Norte County, California",9522,5972,06,Del Norte County,0.6271791640411678
+"El Dorado County, California",76185,16477,06,El Dorado County,0.21627616984970796
+"Fresno County, California",324702,116243,06,Fresno County,0.3579990267999581
+"Glenn County, California",9810,3244,06,Glenn County,0.3306829765545362
+"Humboldt County, California",54922,9603,06,Humboldt County,0.1748479662066203
+"Imperial County, California",49644,27075,06,Imperial County,0.5453831278704375
+"Inyo County, California",8040,1443,06,Inyo County,0.17947761194029851
+"Kern County, California",284931,88801,06,Kern County,0.3116579101607056
+"Kings County, California",44052,11590,06,Kings County,0.26309815672387177
+"Lake County, California",26940,11561,06,Lake County,0.4291388270230141
+"Lassen County, California",9247,1846,06,Lassen County,0.19963231318265384
+"Los Angeles County, California",3416449,1002078,06,Los Angeles County,0.2933098079321541
+"Madera County, California",45379,12448,06,Madera County,0.27431190638841757
+"Marin County, California",103018,26646,06,Marin County,0.25865382748645865
+"Mariposa County, California",7508,1370,06,Mariposa County,0.18247202983484284
+"Mendocino County, California",34842,7750,06,Mendocino County,0.22243269617128753
+"Merced County, California",86055,26208,06,Merced County,0.3045494160711173
+"Modoc County, California",3267,832,06,Modoc County,0.25466789103152737
+"Mono County, California",5744,896,06,Mono County,0.15598885793871867
+"Monterey County, California",132489,56388,06,Monterey County,0.42560514457804044
+"Napa County, California",49763,13877,06,Napa County,0.278861804955489
+"Nevada County, California",42865,7067,06,Nevada County,0.16486644115245538
+"Orange County, California",1082960,289892,06,Orange County,0.26768486370687744
+"Placer County, California",157954,38736,06,Placer County,0.24523595477164237
+"Plumas County, California",8054,836,06,Plumas County,0.10379935435808293
+"Riverside County, California",775335,176445,06,Riverside County,0.2275725976513378
+"Sacramento County, California",571057,221243,06,Sacramento County,0.3874271745202318
+"San Benito County, California",20561,4589,06,San Benito County,0.22318953358299692
+"San Bernardino County, California",674915,144674,06,San Bernardino County,0.21435884518791254
+"San Diego County, California",1171278,409398,06,San Diego County,0.3495310250854195
+"San Francisco County, California",363970,129805,06,San Francisco County,0.35663653597823997
+"San Joaquin County, California",245250,72163,06,San Joaquin County,0.2942426095820591
+"San Luis Obispo County, California",109503,22645,06,San Luis Obispo County,0.20679798726975518
+"San Mateo County, California",264419,84156,06,San Mateo County,0.31826759801678395
+"Santa Barbara County, California",149608,34183,06,Santa Barbara County,0.22848377092134112
+"Santa Clara County, California",659353,237973,06,Santa Clara County,0.3609189614667712
+"Santa Cruz County, California",96898,25092,06,Santa Cruz County,0.25895271316229435
+"Shasta County, California",71232,23961,06,Shasta County,0.33637971698113206
+"Sierra County, California",1219,252,06,Sierra County,0.20672682526661199
+"Siskiyou County, California",19079,6633,06,Siskiyou County,0.34765973059384664
+"Solano County, California",157512,50044,06,Solano County,0.3177154756463
+"Sonoma County, California",190998,49790,06,Sonoma County,0.26068335794092085
+"Stanislaus County, California",177874,49352,06,Stanislaus County,0.27745482757457524
+"Sutter County, California",33292,9969,06,Sutter County,0.29944130722095397
+"Tehama County, California",24788,7435,06,Tehama County,0.29994352105857675
+"Trinity County, California",5585,1786,06,Trinity County,0.3197851387645479
+"Tulare County, California",143195,31238,06,Tulare County,0.21815007507245365
+"Tuolumne County, California",22690,4811,06,Tuolumne County,0.21203173204054648
+"Ventura County, California",280360,57023,06,Ventura County,0.20339206734198886
+"Yolo County, California",76693,24791,06,Yolo County,0.3232498402722543
+"Yuba County, California",28635,9688,06,Yuba County,0.33832722193120307
